@@ -1,9 +1,9 @@
 [
     {
         "remote":      "github",
-        "repository":  "TheMuppets/proprietary_vendor_motorola",
+        "repository":  "ThankYouHeisenberg/proprietary_vendor_moto_shamu",
         "target_path": "vendor/moto",
-        "revision":    "cm-13.0"
+        "revision":    "marshmallow"
     },
     {
         "remote":      "projectdisco",
