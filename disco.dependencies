@@ -1,8 +1,8 @@
 [
     {
         "remote":      "github",
-        "repository":  "ThankYouHeisenberg/proprietary_vendor_moto_shamu",
-        "target_path": "vendor/moto",
+        "repository":  "ThankYouHeisenberg/proprietary_vendor_motorola_shamu",
+        "target_path": "vendor/motorola/shamu",
         "revision":    "marshmallow"
     },
     {
